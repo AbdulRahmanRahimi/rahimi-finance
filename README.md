@@ -1,6 +1,6 @@
 # Rahimi Finance
 
-> **Internal tool** for [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private.
+> **Internal tool** for [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private.
 
 A web-based financial management system for Rahimi Tech Solution. It replaced two Excel workbooks, **Project Finance** (the profit split for each project) and the **Cash Book** (a running cash balance), with a real-time, cloud-synced app that can be installed on any device.
 
